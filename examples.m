@@ -19,3 +19,7 @@ floor(3.14159)
   eye(4)
   % 2x3 one matrix
   ones(2,3)
+  
+%% factors() [factor() in matlab]
+% FUNCTION: this function will factorise an integer into primes
+factors(71400)
